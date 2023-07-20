@@ -1,4 +1,4 @@
-package main.java.com.propdub.app.service;
+package com.propdub.app.service;
 
 import org.springframework.stereotype.Service;
 

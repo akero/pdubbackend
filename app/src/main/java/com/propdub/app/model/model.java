@@ -1,4 +1,4 @@
-package main.java.com.propdub.app.model;
+package com.propdub.app.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
